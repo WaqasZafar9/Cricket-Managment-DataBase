@@ -4,8 +4,8 @@
 This project is a Cricket Database system designed to store data related to a cricket tournament. It utilizes the Oracle 21 C software to manage and organize the tournament's information, including team details, match fixtures, player statistics, and more.
 
 ## Contrubutor
-M WAQAS ZAFAR
-M FUZAIL RAZA
+- **M WAQAS ZAFAR
+- **M FUZAIL RAZA
 
 ## Database Setup
 Before setting up the Cricket Database project, make sure you have the following software and components installed:
