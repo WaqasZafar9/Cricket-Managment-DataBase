@@ -24,7 +24,7 @@ The project scheme describes the architectural design and structure of the Crick
 The presentation serves as a visual aid to explain the Cricket Database project to stakeholders, including instructors, clients, or other interested parties. It highlights the key features, user interfaces, and functionalities of the system. The presentation should include relevant diagrams, screenshots, and explanations to effectively communicate the project's goals and capabilities.
 
 ## Contributions
-This Cricket Database project was developed by Mr. Fuzail Raza. If you have any suggestions or feedback, please reach out to me at fuzailraza161@gmail.com.
+ If you have any suggestions or feedback, please reach out to me at waqaszafar771@gmail.com.
 
 ## License
 This project does not require a license since it is intended for educational purposes only. The project is not to be used for commercial purposes without proper authorization.
